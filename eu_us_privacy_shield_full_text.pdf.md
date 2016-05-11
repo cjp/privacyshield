@@ -1,99 +1,82 @@
- 
- 
- 
- 
- 
- 
- 
+# ANNEX 1: Letter from Under Secretary for International Trade Stefan Selig
 
-ANNEX 1:
-Letter from Under Secretary for
-International Trade Stefan Selig
+# ANNEX 2: Arbitral Model
 
- 
- 
- 
- 
- 
- 
- 
+## ANNEX I
 
-ANNEX 2:
-Arbitral Model
+This Annex I provides the terms under which Privacy Shield organizations are
+obligated to arbitrate claims, pursuant to the Recourse, Enforcement and
+Liability Principle. The binding arbitration option described below applies to
+certain “residual” claims as to data covered by the EU-U.S. Privacy Shield. The
+purpose of this option is to provide a prompt, independent, and fair mechanism,
+at the option of individuals, for resolution of claimed violations of the
+Principles not resolved by any of the other Privacy Shield mechanisms, if any.
 
-ANNEX I
-This Annex I provides the terms under which Privacy Shield organizations are obligated to
-arbitrate claims, pursuant to the Recourse, Enforcement and Liability Principle. The binding
-arbitration option described below applies to certain “residual” claims as to data covered by the
-EU-U.S. Privacy Shield. The purpose of this option is to provide a prompt, independent, and fair
-mechanism, at the option of individuals, for resolution of claimed violations of the Principles not
-resolved by any of the other Privacy Shield mechanisms, if any.
-A.
+### A. Scope
 
-Scope
+This arbitration option is available to an individual to determine, for
+residual claims, whether a Privacy Shield organization has violated its
+obligations under the Principles as to that individual, and whether any such
+violation remains fully or partially unremedied. This option is available only
+for these purposes. This option is not available, for example, with respect to
+the exceptions to the Principles[^1] or with respect to an allegation about the
+adequacy of the Privacy Shield.
 
-This arbitration option is available to an individual to determine, for residual claims, whether a
-Privacy Shield organization has violated its obligations under the Principles as to that individual,
-and whether any such violation remains fully or partially unremedied. This option is available
-only for these purposes. This option is not available, for example, with respect to the exceptions
-to the Principles1 or with respect to an allegation about the adequacy of the Privacy Shield.
-B.
+### B. Available Remedies
 
-Available Remedies
+Under this arbitration option, the Privacy Shield Panel (consisting of one or
+three arbitrators, as agreed by the parties) has the authority to impose
+individual-specific, non-monetary equitable relief (such as access, correction,
+deletion, or return of the individual’s data in question) necessary to remedy
+the violation of the Principles only with respect to the individual. These are
+the only powers of the arbitration panel with respect to remedies. In
+considering remedies, the arbitration panel is required to consider other
+remedies that already have been imposed by other mechanisms under the Privacy
+Shield. No damages, costs, fees, or other remedies are available.  Each party
+bears its own attorney’s fees.
 
-Under this arbitration option, the Privacy Shield Panel (consisting of one or three arbitrators, as
-agreed by the parties) has the authority to impose individual-specific, non-monetary equitable
-relief (such as access, correction, deletion, or return of the individual’s data in question)
-necessary to remedy the violation of the Principles only with respect to the individual. These are
-the only powers of the arbitration panel with respect to remedies. In considering remedies, the
-arbitration panel is required to consider other remedies that already have been imposed by other
-mechanisms under the Privacy Shield. No damages, costs, fees, or other remedies are available.
-Each party bears its own attorney’s fees.
-C.
+### C. Pre-Arbitration Requirements
 
-Pre-Arbitration Requirements
+An individual who decides to invoke this arbitration option must take the
+following steps prior to initiating an arbitration claim: (1) raise the claimed
+violation directly with the organization and afford the organization an
+opportunity to resolve the issue within the timeframe set forth in Section
+III.11(d)(i) of the Principles; (2) make use of the independent recourse
+mechanism under the Principles, which is at no cost to the individual; and (3)
+raise the issue through their Data Protection Authority to the Department of
+Commerce and afford the Department of Commerce an opportunity to use best
+efforts to resolve the issue within the timeframes set forth in the Letter from
+the International Trade Administration of the Department of Commerce, at no
+cost to the individual.  This arbitration option may not be invoked if the
+individual’s same claimed violation of the Principles (1) has previously been
+subject to binding arbitration; (2) was the subject of a final judgment entered
+in a court action to which the individual was a party; or (3) was previously
+settled by the parties. In addition, this option may not be invoked if an EU
+Data Protection Authority (1) has authority under Sections III.5 or III.9 of
+the Principles; or (2) has the authority to resolve the claimed violation
+directly with the organization. A DPA’s authority to resolve the same claim
+against an EU data controller does not alone preclude invocation of this
+arbitration option against a different legal entity not bound by the DPA
+authority.
 
-An individual who decides to invoke this arbitration option must take the following steps prior to
-initiating an arbitration claim: (1) raise the claimed violation directly with the organization and
-afford the organization an opportunity to resolve the issue within the timeframe set forth in
-Section III.11(d)(i) of the Principles; (2) make use of the independent recourse mechanism under
-the Principles, which is at no cost to the individual; and (3) raise the issue through their Data
-Protection Authority to the Department of Commerce and afford the Department of Commerce
-an opportunity to use best efforts to resolve the issue within the timeframes set forth in the Letter
-from the International Trade Administration of the Department of Commerce, at no cost to the
-individual.
-This arbitration option may not be invoked if the individual’s same claimed violation of the
-Principles (1) has previously been subject to binding arbitration; (2) was the subject of a final
-judgment entered in a court action to which the individual was a party; or (3) was previously
-settled by the parties. In addition, this option may not be invoked if an EU Data Protection
-                                                       
-1
+[^1]: Section I.5 of the Principles.
 
-Section I.5 of the Principles.
+### D. Binding Nature of Decisions
 
-Authority (1) has authority under Sections III.5 or III.9 of the Principles; or (2) has the authority
-to resolve the claimed violation directly with the organization. A DPA’s authority to resolve the
-same claim against an EU data controller does not alone preclude invocation of this arbitration
-option against a different legal entity not bound by the DPA authority.
-D.
+An individual’s decision to invoke this binding arbitration option is entirely
+voluntary. Arbitral decisions will be binding on all parties to the
+arbitration. Once invoked, the individual forgoes the option to seek relief for
+the same claimed violation in another forum, except that if nonmonetary
+equitable relief does not fully remedy the claimed violation, the individual’s
+invocation of arbitration will not preclude a claim for damages that is
+otherwise available in the courts.
 
-Binding Nature of Decisions
-
-An individual’s decision to invoke this binding arbitration option is entirely voluntary. Arbitral
-decisions will be binding on all parties to the arbitration. Once invoked, the individual forgoes
-the option to seek relief for the same claimed violation in another forum, except that if nonmonetary equitable relief does not fully remedy the claimed violation, the individual’s invocation
-of arbitration will not preclude a claim for damages that is otherwise available in the courts.
-E.
-
-Review and Enforcement
+### E. Review and Enforcement
 
 Individuals and Privacy Shield organizations will be able to seek judicial review and
 enforcement of the arbitral decisions pursuant to U.S. law under the Federal Arbitration Act.2
 Any such cases must be brought in the federal district court whose territorial coverage includes
 the primary place of business of the Privacy Shield organization.
-
-                                                       
-2
 
 Chapter 2 of the Federal Arbitration Act (“FAA”) provides that “[a]n arbitration agreement or arbitral
 award arising out of a legal relationship, whether contractual or not, which is considered as commercial,
@@ -125,9 +108,8 @@ such an order unless the award is vacated, modified, or corrected as prescribed 
 This arbitration option is intended to resolve individual disputes, and arbitral decisions are not
 intended to function as persuasive or binding precedent in matters involving other parties,
 including in future arbitrations or in EU or U.S. courts, or FTC proceedings.
-F.
 
-The Arbitration Panel
+### F. The Arbitration Panel
 
 The parties will select the arbitrators from the list of arbitrators discussed below.
 Consistent with applicable law, the U.S. Department of Commerce and the European
